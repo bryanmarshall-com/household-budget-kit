@@ -8,6 +8,7 @@ College: a simple household budget, built in five steps.
 | | What it is |
 |---|---|
 | [`STEPS.md`](STEPS.md) | The handout: one prompt per step, and what you should see |
+| [`GUIDE.pdf`](GUIDE.pdf) | The same five steps in detail, with screens: every click in Cursor, Claude Code and GitHub, and what to do when something goes wrong |
 | [`inbox/`](inbox/) | An invented household's paperwork: two bank statements, a Visa statement, a pay stub, an electric bill, a grocery receipt and a note |
 | [`standards/`](standards/) | The two one-page rulebooks Claude follows: the **brain standard** and **DOE** |
 | [`budget.json`](budget.json) | The monthly budget, one amount per category |
