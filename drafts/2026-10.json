@@ -1,0 +1,320 @@
+{
+ "month": "2026-10",
+ "transactions": [
+  {
+   "date": "2026-10-01",
+   "description": "PINE STREET PROPERTIES SAMPLE RENT",
+   "amount": 1450.0,
+   "category": "housing",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-01",
+   "description": "PAYROLL PINE RIDGE SCHOOL DISTRICT SAMPLE",
+   "amount": -2184.62,
+   "category": "income",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-02",
+   "description": "STREAMFLIX*SAMPLE 855-555-0100",
+   "amount": 14.99,
+   "category": "subscriptions",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-03",
+   "description": "OCONEE FRESH MARKET SAMPLE #12",
+   "amount": 148.27,
+   "category": "groceries",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-03",
+   "description": "SPOTIFY USA",
+   "amount": 11.99,
+   "category": "subscriptions",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-04",
+   "description": "CHICK-FIL-A #0912",
+   "amount": 23.86,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-05",
+   "description": "SHELL OIL 57410000",
+   "amount": 46.2,
+   "category": "transportation",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-06",
+   "description": "CITY OF MILLEDGEVILLE WATER SAMPLE",
+   "amount": 54.1,
+   "category": "utilities",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-06",
+   "description": "OLIVE GARDEN #1234",
+   "amount": 72.45,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-07",
+   "description": "PEACH MUTUAL AUTO INS SAMPLE",
+   "amount": 132.0,
+   "category": "insurance",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-08",
+   "description": "AMAZON MKTPLACE PMTS",
+   "amount": 38.49,
+   "category": "shopping",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-09",
+   "description": "LA FIESTA MEXICAN RESTAURANT",
+   "amount": 61.4,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-09",
+   "description": "TARGET 00012345",
+   "amount": 56.12,
+   "category": "shopping",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-10",
+   "description": "RIVERBEND INTERNET SAMPLE",
+   "amount": 65.0,
+   "category": "utilities",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-11",
+   "description": "OCONEE FRESH MARKET SAMPLE #12",
+   "amount": 126.55,
+   "category": "groceries",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-12",
+   "description": "UNITED WAY OF MIDDLE GA SAMPLE",
+   "amount": 50.0,
+   "category": "giving",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-12",
+   "description": "STREAMFLIX*SAMPLE 855-555-0100",
+   "amount": 14.99,
+   "category": "subscriptions",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-13",
+   "description": "CVS/PHARMACY #05520",
+   "amount": 27.18,
+   "category": "health",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-14",
+   "description": "TRANSFER TO SAVINGS xxxx0000",
+   "amount": 300.0,
+   "category": "savings",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-14",
+   "description": "MOE'S SOUTHWEST GRILL",
+   "amount": 28.4,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-15",
+   "description": "PAYROLL PINE RIDGE SCHOOL DISTRICT SAMPLE",
+   "amount": -2184.62,
+   "category": "income",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-15",
+   "description": "PAYROLL RIVERSIDE FAMILY CLINIC SAMPLE",
+   "amount": -1962.4,
+   "category": "income",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-16",
+   "description": "ZAXBY'S #44",
+   "amount": 31.12,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-17",
+   "description": "WALMART SUPERCENTER #0601",
+   "amount": 84.33,
+   "category": "groceries",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-17",
+   "description": "AUTOZONE #4410",
+   "amount": 89.99,
+   "category": "transportation",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-18",
+   "description": "BUFFINGTON'S DOWNTOWN",
+   "amount": 88.75,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-19",
+   "description": "SHELL OIL 57410000",
+   "amount": 41.85,
+   "category": "transportation",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-19",
+   "description": "STARBUCKS STORE 10000",
+   "amount": 12.65,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-20",
+   "description": "MAGNOLIA VISA SAMPLE ONLINE PMT",
+   "amount": 612.38,
+   "category": "transfer",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-21",
+   "description": "MIDDLE GEORGIA ELECTRIC SAMPLE AUTOPAY",
+   "amount": 168.43,
+   "category": "utilities",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-21",
+   "description": "OCONEE FRESH MARKET SAMPLE #12",
+   "amount": 139.02,
+   "category": "groceries",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-22",
+   "description": "PLANET FITNESS CLUB FEES",
+   "amount": 24.99,
+   "category": "health",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-22",
+   "description": "AMAZON MKTPLACE PMTS",
+   "amount": 23.97,
+   "category": "shopping",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-23",
+   "description": "TACO BELL #0315",
+   "amount": 18.73,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-24",
+   "description": "DUNKIN #3392",
+   "amount": 9.47,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-25",
+   "description": "ATM WITHDRAWAL 0000 N COLUMBIA ST",
+   "amount": 60.0,
+   "category": "misc",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-26",
+   "description": "MAIN STREET GRILL SAMPLE",
+   "amount": 67.04,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-26",
+   "description": "MAIN STREET GRILL SAMPLE",
+   "amount": 64.3,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-27",
+   "description": "OCONEE FRESH MARKET SAMPLE #12",
+   "amount": 118.64,
+   "category": "groceries",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-28",
+   "description": "PATEL FAMILY DENTAL SAMPLE",
+   "amount": 40.0,
+   "category": "health",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-28",
+   "description": "THE HOME DEPOT #0000",
+   "amount": 47.88,
+   "category": "household",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-29",
+   "description": "PAPA JOHN'S #1187",
+   "amount": 32.18,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-30",
+   "description": "PAYROLL RIVERSIDE FAMILY CLINIC SAMPLE",
+   "amount": -1962.4,
+   "category": "income",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  },
+  {
+   "date": "2026-10-30",
+   "description": "STARBUCKS STORE 10000",
+   "amount": 9.85,
+   "category": "eating-out",
+   "source": "documents/2026-10-31-magnolia-visa-statement.json"
+  },
+  {
+   "date": "2026-10-31",
+   "description": "PEACH MUTUAL RENTERS INS SAMPLE",
+   "amount": 18.0,
+   "category": "insurance",
+   "source": "documents/2026-10-31-peach-state-bank-statement.json"
+  }
+ ]
+}

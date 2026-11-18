@@ -1,0 +1,33 @@
+{
+  "source": "documents/2026-10-01-middle-georgia-electric-bill.pdf",
+  "original_name": "electric bill.pdf",
+  "sha256": "e076914c176c29cc041d17d9617509ca74792bf4506ebb2ccb45faa7ca3d11b3",
+  "received": "2026-11-18",
+  "purpose": "Electric bill paid by autopay on 10/21",
+  "why_kept": "Usage and amount for the utilities line",
+  "text": [
+    "                                                                                                                     Electric Bill",
+    "Middle Georgia Electric SAMPLE                                                                              Bill date 2026-10-01",
+    "Member services 478-555-0177                                                                                    Account 0000-0000",
+    "Dana & Sam Okafor-Lane",
+    "1200 Example Lane, Milledgeville, GA 31061",
+    "  Service period 2026-08-29 to 2026-09-29 · Usage 1,214 kWh",
+    "  Previous bill $192.77 — paid, thank you.",
+    " Charges                                                                                                                 Amount",
+    " Basic service charge                                                                                                    $14.00",
+    " Energy 1,214 kWh                                                                                                       $131.70",
+    " Fuel recovery                                                                                                           $15.31",
+    " Taxes & fees                                                                                                             $7.42",
+    " Amount due                                                                                                             $168.43",
+    "                                        —   A",
+    "  Due 2026-10-21 · Enrolled in AutoPay from Peach State Bank SAMPLE ****0000",
+    "                                      E    T",
+    "                                    L     A",
+    "This document is invented for a training exercise. No real person, account or institution is represented.",
+    "                                  P     D",
+    "                              A M     D",
+    "                            S NTE",
+    "                              V E",
+    "                           IN"
+  ]
+}
