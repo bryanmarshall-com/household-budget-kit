@@ -12,7 +12,7 @@ College: a simple household budget, built in five steps.
 | [`standards/`](standards/) | The two one-page rulebooks Claude follows: the **brain standard** and **DOE** |
 | [`budget.json`](budget.json) | The monthly budget, one amount per category |
 | `CLAUDE.md` | Empty on purpose. Step 1 writes it. |
-| `finished` branch | The end state of every step, if you get stuck: `git checkout finished` |
+| [`finished` branch](https://github.com/bryanmarshall-com/household-budget-kit/tree/finished) | The end state of every step, to compare with if you get stuck |
 
 ## Get it
 

@@ -9,7 +9,8 @@ Practise on them. When you try this with your own money, use a **private**
 copy and keep it off any public repository.
 
 > **Stuck?** Every step's finished result is on the `finished` branch:
-> `git checkout finished`. Nobody falls behind for good.
+> <https://github.com/bryanmarshall-com/household-budget-kit/tree/finished>.
+> Open the file you need and compare. Nobody falls behind for good.
 
 ---
 
@@ -17,6 +18,7 @@ copy and keep it off any public repository.
 
 1. On this repository's GitHub page click **Use this template → Create a new
    repository**. Name it `household-budget`, choose **Private**, and create it.
+   (Leave *Include all branches* unticked; you want a clean start.)
 2. On your new repository click **Code** and copy the URL.
 3. In Cursor: **File → New Window → Clone repo**, paste the URL, and save it in
    **Documents**. Open it.
