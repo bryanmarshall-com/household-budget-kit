@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+
+# Received paperwork is EVIDENCE, not knowledge: it needs a backup, not a
+# history. See standards/brain-standard.md. Directory rule, so the PDF and its
+# .json sidecar are covered together. Do NOT add a `!*.json` exception here.
+/documents/
+
+# The brain is its own private repository (STEPS.md, step 2b).
+/brain/
+
+# If you ever try this with your OWN statements, put them in real/ and they
+# will never be committed. Better still: use a private copy of this template.
+/real/

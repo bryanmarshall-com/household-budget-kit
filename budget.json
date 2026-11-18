@@ -1,0 +1,24 @@
+{
+  "household": "Okafor-Lane (invented)",
+  "monthly_budget": {
+    "housing": 1450,
+    "utilities": 300,
+    "groceries": 650,
+    "eating-out": 400,
+    "transportation": 200,
+    "insurance": 150,
+    "health": 100,
+    "subscriptions": 30,
+    "shopping": 150,
+    "household": 75,
+    "giving": 50,
+    "savings": 300,
+    "misc": 100
+  },
+  "not_spending": ["income", "transfer"],
+  "notes": {
+    "eating-out": "Agreed in August 2026: $400 a month, tops.",
+    "transfer": "Paying the Visa from checking is a transfer, not spending; the Visa statement shows what was bought.",
+    "not_spending": "Income and transfers are categorized but never counted against the budget."
+  }
+}
